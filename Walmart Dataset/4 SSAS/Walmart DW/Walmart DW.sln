@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Walmart DW", "Walmart DW.dwproj", "{B761985F-E88A-4260-BDDC-7D1E026766D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B761985F-E88A-4260-BDDC-7D1E026766D3}.Development|Default.ActiveCfg = Development
+		{B761985F-E88A-4260-BDDC-7D1E026766D3}.Development|Default.Build.0 = Development
+		{B761985F-E88A-4260-BDDC-7D1E026766D3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851372E3-1F16-46CD-B6FA-4520D3D689B5}
+	EndGlobalSection
+EndGlobal
